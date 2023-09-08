@@ -5,7 +5,7 @@
 ---
 
 <div id="main" align="center"">
-  <p font-size="20px" font-weight="bold" color="rgb(230, 243, 251)">Hi, I'm Eva<br>((o(*°▽°*)o)))</p>
+  ###Hi, I'm Eva<br>((o(*°▽°*)o)))
 
   <p font-weight="bold" color="rgb(230, 243, 251)">I am a novice frontend developer with a law degree o(≧▽≦)o	</p>
 
