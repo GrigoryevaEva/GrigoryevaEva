@@ -4,8 +4,9 @@
 
 ---
 
+###Hi, I'm Eva<br>((o(*°▽°*)o)))
+
 <div id="main" align="center"">
-  ###Hi, I'm Eva<br>((o(*°▽°*)o)))
 
   <p font-weight="bold" color="rgb(230, 243, 251)">I am a novice frontend developer with a law degree o(≧▽≦)o	</p>
 
