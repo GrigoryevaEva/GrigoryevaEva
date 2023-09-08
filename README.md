@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Belanosima:wght@700&family=Caprasimo&family=Poppins&display=swap" rel="stylesheet">
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/4QxQgWZHbeYwM/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/4QxQgWZHbeYwM/giphy.gif"/>
 </div>
 
 <div id="main" align="center" color="rgb(230, 243, 251)">
@@ -17,5 +17,5 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif"/>
 </div>
