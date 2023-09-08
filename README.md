@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Belanosima:wght@700&family=Caprasimo&family=Poppins&display=swap" rel="stylesheet">
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/4QxQgWZHbeYwM/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/4QxQgWZHbeYwM/giphy.gif"/>
 </div>
 
 ###<p font-family="Poppins" font-weight="bold">Hi, I'm Eva<br>((o(*°▽°*)o)))</p>
@@ -15,5 +15,5 @@
 <p font-family="Poppins" font-weight="bold">Further - more!<br>(ノ= ⩊ = )ノ<br>Be sure to peer again!</p>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif"/>
 </div>
