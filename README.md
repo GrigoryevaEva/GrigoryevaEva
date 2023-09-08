@@ -4,7 +4,7 @@
 
 ---
 
-<h1>Hi, I'm Eva<br>((o(*°▽°*)o)))</h1>
+<h1 align="center">Hi, I'm Eva<br>((o(*°▽°*)o)))</h1>
 
 <div id="main" align="center"">
 
