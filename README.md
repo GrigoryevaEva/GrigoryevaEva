@@ -4,16 +4,32 @@
 
 ---
 
-<h1 align="center">Hi, I'm Eva<br>((o(*°▽°*)o)))</h1>
+<h1 align="center">Hi, I'm Eva</h1>
 
 <div id="main" align="center"">
 
-  <p font-weight="bold" color="rgb(230, 243, 251)">I am a novice frontend developer with a law degree<br>o(≧▽≦)o	</p>
+  <p>I am a novice frontend developer</p>
 
-  <p font-weight="bold" color="rgb(230, 243, 251)">I'm just at the beginning of my way. So far, you can see the following my own projects:<br><a color="rgb(19, 141, 237)" text-decoration="underline" font-weight="bold" href="https://grigoryevaeva.github.io/constructor-cards-hearthstone-js/">Constructor Cards Hearthstone or "the cards tell about themselves"</a><br><a color="rgb(19, 141, 237)" text-decoration="underline" font-weight="bold" href="https://grigoryevaeva.github.io/retro-radio-signin-js/">SignIn form in Style Retro Radio</a></p>
+  <h3>My stack:</h3>
+  <p><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/><img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000"/><br><img width="90px" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000"/></p>
 
-  <p font-weight="bold" color="rgb(230, 243, 251)">Further - more!<br>(ノ= ⩊ = )ノ<br>Be sure to peer again!</p>
+  <h3>Also, in I used:</h3>
+  <p>-Vite<br>-Feature-Sliced Design (FSD)<br>-Redux Toolkit, Zustand<br>-React Router<br>-Sass</p>
+
+  <h1>Projects</h1>
+
+  <p>I suggest you familiarize yourself with the following projects that I have completed in the challenge format:</p>
+
+  <p>A website for searching for countries, with the ability to view detailed information about each of them<br><a href="https://github.com/GrigoryevaEva/countries-listing">Repository</a><br><a href="https://grigoryevaeva.github.io/countries-listing/">GitHub Pages</a></p>
+
+  <p>A job site written in TS, with the ability to filter<br><a href="https://github.com/GrigoryevaEva/vacancy-listings-with-filtering">Repository</a><br><a href="https://grigoryevaeva.github.io/vacancy-listings-with-filtering/">GitHub Pages</a></p>
+  
+  <p>The challenges are taken from the "FrontendMentor" website. I was given a design and a technical assignment. I was free to choose the stack and the implementation approach.</p>
+
+  <p>Further - more!<br>(ノ= ⩊ = )ノ<br>Be sure to peer again!</p>
+
 </div>
+
 
 ---
 
