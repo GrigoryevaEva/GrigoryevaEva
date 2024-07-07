@@ -1,9 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/4QxQgWZHbeYwM/giphy.gif"/>
-</div>
-
----
-
 <h1 align="center">Hi, I'm Eva</h1>
 
 <div id="main" align="center"">
