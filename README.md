@@ -20,6 +20,11 @@
   
   <p>The challenges are taken from the "FrontendMentor" website. I was given a design and a technical assignment. I was free to choose the stack and the implementation approach.</p>
 
+  <h3>Test tasks</h3>
+  <p>It would be great if you could also familiarize yourself with the test tasks I have completed:<br>
+    <a href="https://github.com/GrigoryevaEva/tracking-cars">tracking-cars</a>
+  </p>
+
   <p>Further - more!<br>(ノ= ⩊ = )ノ<br>Be sure to peer again!</p>
 
 </div>
