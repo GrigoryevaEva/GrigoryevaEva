@@ -22,7 +22,8 @@
 
   <h3>Test tasks</h3>
   <p>It would be great if you could also familiarize yourself with the test tasks I have completed:<br>
-    <a href="https://github.com/GrigoryevaEva/tracking-cars">tracking-cars</a>
+    <a href="https://github.com/GrigoryevaEva/tracking-cars">tracking-cars</a><br>
+    <a href="https://github.com/GrigoryevaEva/make-an-appointment">make-an-appointment</a>
   </p>
 
   <p>Further - more!<br>(ノ= ⩊ = )ノ<br>Be sure to peer again!</p>
